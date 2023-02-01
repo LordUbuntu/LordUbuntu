@@ -1,10 +1,10 @@
-- 🤝 Hi, I’m @LordUbuntu
+- 🤝 Hi, I’m @LordUbuntu. I'm a Computer Alchemist ⚗️
 - 👁️ I’m interested in Computer Science, Music, People, and a lot more!
-- ⚗️ I’m currently learning Bioinformatics and Calculus.
+- 📖 I’m currently learning Bioinformatics and Calculus.
 - 🔩 I’m looking to collaborate on anything interesting!
 - 📫 Reach me by email (just don't spam).
 
-I've got some cool projects you should check out here. I'm going to add some more nicities to this README.md later!
+Check out my repos! You might find something cool 😉
 
 
 <!---
