@@ -1,6 +1,6 @@
 - 🤝 Hi, I’m @LordUbuntu. I'm a Computer Alchemist ⚗️
 - 👁️ I’m interested in Computer Science, Music, People, and a lot more!
-- 📖 I’m currently learning Bioinformatics and Calculus.
+- 📖 I’m currently learning Bioinformatics, Calculus, and Competitive Programming.
 - 🔩 I’m looking to collaborate on anything interesting!
 - 📫 Reach me by email (just don't spam).
 
