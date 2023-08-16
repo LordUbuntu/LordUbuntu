@@ -1,14 +1,16 @@
 # Hello...
-I'm @LordUbuntu.
-I'm a "Computer Alchemist" ⚗️ who thrives on solving difficult problems, facing challenges, and continually learning. I'm always growing ☀️🐍.
+I'm @LordUbuntu ☀️🐍.
+I'm a "Computer Alchemist" ⚗️ who thrives on solving difficult problems, facing challenges, and continually learning. I'm always changing, always growing.
 
 # My Hobbies Include...
 - Gardening 🌻
 - Languages 📢
-- People 🧍
+- Helping People 🧍
 - Competitive Programming 💿
 - Gym 🏃
 - Robotics 🦾
+- Machine Intelligence 🤖
+- Philosophy 🧐
 - Music 🎵
 
 # I thrive...
