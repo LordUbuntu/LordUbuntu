@@ -16,12 +16,6 @@ I'm a "Computer Alchemist" ⚗️ who thrives on solving difficult problems, fac
 # I thrive...
 Whenever I learn something new of face a challenge. It's not a matter of if but when I can overcome a challenge, and sometimes the best way to grow is to struggle.
 
-# Right now I'm...
-- 📖 Learning ML
-- ✍️ Practicing Mathematics
-- 🔧 Improving my workflow
-- 💾 Developing cool stuff
-
 # Contact me...
 If you've got some cool ideas, cool projects, want to work on a project with me, anything of that sort than hit me up over email 📫
 I'm alwyas happy to try something new 🌑 and interesting 👁️
