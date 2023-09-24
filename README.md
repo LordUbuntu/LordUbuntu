@@ -1,28 +1,27 @@
 # Hello...
 I'm @LordUbuntu ☀️🐍.
-I'm a "Computer Alchemist" ⚗️ who thrives on solving difficult problems, facing challenges, and continually learning. I'm always changing, always growing.
+I'm a "Computer Alchemist" who thrives by solving difficult problems, overcoming challenges, and continually learning and growing.
 
-# My Hobbies Include...
-- Gardening 🌻
-- Languages 📢
-- Helping People 🧍
-- Competitive Programming 💿
-- Gym 🏃
-- Robotics 🦾
-- Machine Intelligence 🤖
-- Philosophy 🧐
-- Music 🎵
+# I Enjoy...
+- Gardening
+- Languages
+- Machines
+- Programming
+- Music
 
-# I thrive...
-Whenever I learn something new of face a challenge. It's not a matter of if but when I can overcome a challenge, and sometimes the best way to grow is to struggle.
+# My philosophy...
+I will always seek to be transformed by life.
+Like water, I will always be open to take new shapes and learn new things.
+I will fall down 7 times and get up 8, I will always strive to overcome challenges and grow.
 
 # Contact me...
-If you've got some cool ideas, cool projects, want to work on a project with me, anything of that sort than hit me up over email 📫
-I'm alwyas happy to try something new 🌑 and interesting 👁️
+If you want to collaborate on any cool projects or have any ideas you would like for me to try.
 
 # Check out...
 My repo's, you may find something that catches your eye ✨
-
+- [Tidbits](https://github.com/LordUbuntu/tidbits): various small cool programs
+- [Algorithms](https://github.com/LordUbuntu/algorithms): algorithms and data structures
+- [Hello 3000](https://github.com/LordUbuntu/hello3000): a rosetta stone of hello world programs
 
 <!---
 LordUbuntu/LordUbuntu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
