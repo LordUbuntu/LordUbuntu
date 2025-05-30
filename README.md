@@ -1,23 +1,15 @@
 # Hello...
-I'm @LordUbuntu ☀️🐍.:
-I'm a "Computer Alchemist" who thrives on the process of transforming problems into solutions, overcoming challenges, and continually learning and growing. 🦋
-
-# I Enjoy...
-- Gardening
-- Languages
-- Robotics
-- Programming
-- Music
-- And more!
+I'm @LordUbuntu ☀️🐍🦋
 
 # Contact me...
-If you want to collaborate on any cool projects or have any ideas you would like for me to try.
+If you want to collaborate on anything.
 
 # Check out...
 My repo's, you may find something that catches your eye ✨
 - [Tidbits](https://github.com/LordUbuntu/tidbits): programming as doodling
 - [Algorithms](https://github.com/LordUbuntu/algorithms): algorithms and data structures
 - [Hello 3000](https://github.com/LordUbuntu/hello3000): a rosetta stone of hello world programs
+- [maths](https://github.com/LordUbuntu/maths): formally verified and optimized mathematical algorithms
 
 <!---
 LordUbuntu/LordUbuntu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
